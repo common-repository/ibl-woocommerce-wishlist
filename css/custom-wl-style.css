@@ -1,0 +1,25 @@
+.btn_after_loop{
+    margin-top: 10px;
+   
+  
+}
+.wishlist_button_add {
+	padding-bottom: 10px;
+}
+.wishlist_button_after{
+	padding-top: 10px;
+  
+}
+.wishlist_button_link_after{
+	padding-top: 15px;
+}
+.wishlist_button_link_before{
+margin-bottom: 11px;
+
+}
+.custom-icon-heart-plus:before {
+  content: '\f184'; 
+  font-family: 'FontAwesome' !important;
+  font-size: 16px !important;
+  margin-right: 8px;
+}

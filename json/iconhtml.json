@@ -1,0 +1,1073 @@
+[{
+	"name" : "icon-user" 
+},
+{
+	"name" : "icon-search" 
+},
+{
+	"name" : "icon-right-dir" 
+},
+{
+	"name" : "icon-star" 
+},
+{
+	"name" : "icon-cancel" 
+},
+{
+	"name" : "icon-help-circled" 
+},
+{
+	"name" : "icon-info-circled" 
+},
+{
+	"name" : "icon-eye" 
+},
+{
+	"name" : "icon-tag" 
+},
+{
+	"name" : "icon-bookmark" 
+},
+{
+	"name" : "icon-heart" 
+},
+{
+	"name" : "icon-thumbs-down-alt" 
+},
+{
+	"name" : "icon-upload-cloud" 
+},
+{
+	"name" : "icon-phone-squared" 
+},
+{
+	"name" : "icon-cog" 
+},
+{
+	"name" : "icon-wrench" 
+},
+{
+	"name" : "icon-volume-down" 
+},
+{
+	"name" : "icon-down-dir" 
+},
+{
+	"name" : "icon-up-dir" 
+},
+{
+	"name" : "icon-left-dir" 
+},
+{
+	"name" : "icon-music" 
+},
+{
+	"name" : "icon-lemon" 
+},
+{
+	"name" : "icon-mail" 
+},
+{
+	"name" : "icon-mail-alt" 
+},
+{
+	"name" : "icon-heart-empty" 
+},
+{
+	"name" : "icon-star-empty" 
+},
+{
+	"name" : "icon-star-half" 
+},
+{
+	"name" : "icon-star-half-alt" 
+},
+{
+	"name" : "icon-users" 
+},
+{
+	"name" : "icon-male" 
+},
+{
+	"name" : "icon-female" 
+},
+{
+	"name" : "icon-video" 
+},
+{
+	"name" : "icon-videocam" 
+},
+{
+	"name" : "icon-picture" 
+},
+{
+	"name" : "icon-camera" 
+},
+{
+	"name" : "icon-camera-alt" 
+},
+{
+	"name" : "icon-th-large" 
+},
+{
+	"name" : "icon-th" 
+},
+{
+	"name" : "icon-th-list" 
+},
+{
+	"name" : "icon-ok" 
+},
+{
+	"name" : "icon-ok-circled" 
+},
+{
+	"name" : "icon-ok-circled2" 
+},
+{
+	"name" : "icon-ok-squared" 
+},
+{
+	"name" : "icon-cancel-circled" 
+},
+{
+	"name" : "icon-cancel-circled2" 
+},
+{
+	"name" : "icon-plus" 
+},
+{
+	"name" : "icon-plus-circled" 
+},
+{
+	"name" : "icon-plus-squared" 
+},
+{
+	"name" : "icon-plus-squared-small" 
+},
+{
+	"name" : "icon-minus" 
+},
+{
+	"name" : "icon-minus-circled" 
+},
+{
+	"name" : "icon-minus-squared" 
+},
+{
+	"name" : "icon-minus-squared-alt" 
+},
+{
+	"name" : "icon-minus-squared-small" 
+},
+{
+	"name" : "icon-help" 
+},
+{
+	"name" : "icon-info" 
+},
+{
+	"name" : "icon-link" 
+},
+{
+	"name" : "icon-unlink" 
+},
+{
+	"name" : "icon-link-ext" 
+},
+{
+	"name" : "icon-link-ext-alt" 
+},
+{
+	"name" : "icon-attach" 
+},
+{
+	"name" : "icon-lock" 
+},
+{
+	"name" : "icon-lock-open" 
+},
+{
+	"name" : "icon-lock-open-alt" 
+},
+{
+	"name" : "icon-pin" 
+},
+{
+	"name" : "icon-eye-off" 
+},
+{
+	"name" : "icon-tags" 
+},
+{
+	"name" : "icon-bookmark-empty" 
+},
+{
+	"name" : "icon-flag" 
+},
+{
+	"name" : "icon-flag-empty" 
+},
+{
+	"name" : "icon-flag-checkered" 
+},
+{
+	"name" : "icon-thumbs-up" 
+},
+{
+	"name" : "icon-thumbs-down" 
+},
+{
+	"name" : "icon-download" 
+},
+{
+	"name" : "icon-upload" 
+},
+{
+	"name" : "icon-download-cloud" 
+},
+{
+	"name" : "icon-reply" 
+},
+{
+	"name" : "icon-reply-all" 
+},
+{
+	"name" : "icon-forward" 
+},
+{
+	"name" : "icon-quote-left" 
+},
+{
+	"name" : "icon-quote-right" 
+},
+{
+	"name" : "icon-code" 
+},
+{
+	"name" : "icon-export" 
+},
+{
+	"name" : "icon-export-alt" 
+},
+{
+	"name" : "icon-pencil" 
+},
+{
+	"name" : "icon-pencil-squared" 
+},
+{
+	"name" : "icon-edit" 
+},
+{
+	"name" : "icon-print" 
+},
+{
+	"name" : "icon-retweet" 
+},
+{
+	"name" : "icon-keyboard" 
+},
+{
+	"name" : "icon-gamepad" 
+},
+{
+	"name" : "icon-comment" 
+},
+{
+	"name" : "icon-comment-empty" 
+},
+{
+	"name" : "icon-chat" 
+},
+{
+	"name" : "icon-chat-empty" 
+},
+{
+	"name" : "icon-bell" 
+},
+{
+	"name" : "icon-bell-alt" 
+},
+{
+	"name" : "icon-attention-alt" 
+},
+{
+	"name" : "icon-attention" 
+},
+{
+	"name" : "icon-attention-circled" 
+},
+{
+	"name" : "icon-location" 
+},
+{
+	"name" : "icon-direction" 
+},
+{
+	"name" : "icon-compass" 
+},
+{
+	"name" : "icon-trash" 
+},
+{
+	"name" : "icon-doc" 
+},
+{
+	"name" : "icon-docs" 
+},
+{
+	"name" : "icon-doc-text" 
+},
+{
+	"name" : "icon-doc-inv" 
+},
+{
+	"name" : "icon-doc-text-inv" 
+},
+{
+	"name" : "icon-folder" 
+},
+{
+	"name" : "icon-folder-open" 
+},
+{
+	"name" : "icon-folder-empty" 
+},
+{
+	"name" : "icon-folder-open-empty" 
+},
+{
+	"name" : "icon-box" 
+},
+{
+	"name" : "icon-rss" 
+},
+{
+	"name" : "icon-rss-squared" 
+},
+{
+	"name" : "icon-phone" 
+},
+{
+	"name" : "icon-menu" 
+},
+{
+	"name" : "icon-cog-alt" 
+},
+{
+	"name" : "icon-basket" 
+},
+{
+	"name" : "icon-calendar" 
+},
+{
+	"name" : "icon-login" 
+},
+{
+	"name" : "icon-logout" 
+},
+{
+	"name" : "icon-mic" 
+},
+{
+	"name" : "icon-mute" 
+},
+{
+	"name" : "icon-volume-off" 
+},
+{
+	"name" : "icon-volume-up" 
+},
+{
+	"name" : "icon-headphones" 
+},
+{
+	"name" : "icon-clock" 
+},
+{
+	"name" : "icon-lightbulb" 
+},
+{
+	"name" : "icon-block" 
+},
+{
+	"name" : "icon-resize-full" 
+},
+{
+	"name" : "icon-resize-full-alt" 
+},
+{
+	"name" : "icon-resize-small" 
+},
+{
+	"name" : "icon-resize-vertical" 
+},
+{
+	"name" : "icon-resize-horizontal" 
+},
+{
+	"name" : "icon-move" 
+},
+{
+	"name" : "icon-zoom-in" 
+},
+{
+	"name" : "icon-zoom-out" 
+},
+{
+	"name" : "icon-down-circled2" 
+},
+{
+	"name" : "icon-up-circled2" 
+},
+{
+	"name" : "icon-left-circled2" 
+},
+{
+	"name" : "icon-right-circled2" 
+},
+{
+	"name" : "icon-down-open" 
+},
+{
+	"name" : "icon-left-open" 
+},
+{
+	"name" : "icon-right-open" 
+},
+{
+	"name" : "icon-up-open" 
+},
+{
+	"name" : "icon-angle-left" 
+},
+{
+	"name" : "icon-angle-right" 
+},
+{
+	"name" : "icon-angle-up" 
+},
+{
+	"name" : "icon-angle-down" 
+},
+{
+	"name" : "icon-angle-circled-left" 
+},
+{
+	"name" : "icon-angle-circled-right" 
+},
+{
+	"name" : "icon-angle-circled-up" 
+},
+{
+	"name" : "icon-angle-circled-down" 
+},
+{
+	"name" : "icon-angle-double-left" 
+},
+{
+	"name" : "icon-angle-double-right" 
+},
+{
+	"name" : "icon-angle--double-up" 
+},
+{
+	"name" : "icon-angle--double-down" 
+},
+{
+	"name" : "icon-down" 
+},
+{
+	"name" : "icon-left" 
+},
+{
+	"name" : "icon-right" 
+},
+{
+	"name" : "icon-up" 
+},
+{
+	"name" : "icon-down-big" 
+},
+{
+	"name" : "icon-left-big" 
+},
+{
+	"name" : "icon-right-big" 
+},
+{
+	"name" : "icon-up-big" 
+},
+{
+	"name" : "icon-right-hand" 
+},
+{
+	"name" : "icon-left-hand" 
+},
+{
+	"name" : "icon-up-hand" 
+},
+{
+	"name" : "icon-down-hand" 
+},
+{
+	"name" : "icon-left-circled" 
+},
+{
+	"name" : "icon-right-circled" 
+},
+{
+	"name" : "icon-up-circled" 
+},
+{
+	"name" : "icon-down-circled" 
+},
+{
+	"name" : "icon-cw" 
+},
+{
+	"name" : "icon-ccw" 
+},
+{
+	"name" : "icon-arrows-cw" 
+},
+{
+	"name" : "icon-level-up" 
+},
+{
+	"name" : "icon-level-down" 
+},
+{
+	"name" : "icon-shuffle" 
+},
+{
+	"name" : "icon-exchange" 
+},
+{
+	"name" : "icon-collapse" 
+},
+{
+	"name" : "icon-expand-right" 
+},
+{
+	"name" : "icon-collapse-left" 
+},
+{
+	"name" : "icon-play" 
+},
+{
+	"name" : "icon-play-circled" 
+},
+{
+	"name" : "icon-play-circled2" 
+},
+{
+	"name" : "icon-stop" 
+},
+{
+	"name" : "icon-pause" 
+},
+{
+	"name" : "icon-to-end" 
+},
+{
+	"name" : "icon-to-end-alt" 
+},
+{
+	"name" : "icon-to-start" 
+},
+{
+	"name" : "icon-to-start-alt" 
+},
+{
+	"name" : "icon-fast-fw" 
+},
+{
+	"name" : "icon-fast-bw" 
+},
+{
+	"name" : "icon-eject" 
+},
+{
+	"name" : "icon-target" 
+},
+{
+	"name" : "icon-signal" 
+},
+{
+	"name" : "icon-award" 
+},
+{
+	"name" : "icon-desktop" 
+},
+{
+	"name" : "icon-laptop" 
+},
+{
+	"name" : "icon-tablet" 
+},
+{
+	"name" : "icon-mobile" 
+},
+{
+	"name" : "icon-inbox" 
+},
+{
+	"name" : "icon-globe" 
+},
+{
+	"name" : "icon-sun" 
+},
+{
+	"name" : "icon-cloud" 
+},
+{
+	"name" : "icon-flash" 
+},
+{
+	"name" : "icon-moon" 
+},
+{
+	"name" : "icon-umbrella" 
+},
+{
+	"name" : "icon-flight" 
+},
+{
+	"name" : "icon-fighter-jet" 
+},
+{
+	"name" : "icon-leaf" 
+},
+{
+	"name" : "icon-font" 
+},
+{
+	"name" : "icon-bold" 
+},
+{
+	"name" : "icon-italic" 
+},
+{
+	"name" : "icon-text-height" 
+},
+{
+	"name" : "icon-text-width" 
+},
+{
+	"name" : "icon-align-left" 
+},
+{
+	"name" : "icon-align-right" 
+},
+{
+	"name" : "icon-align-center" 
+},
+{
+	"name" : "icon-align-justify" 
+},
+{
+	"name" : "icon-list" 
+},
+{
+	"name" : "icon-indent-left" 
+},
+{
+	"name" : "icon-indent-right" 
+},
+{
+	"name" : "icon-list-bullet" 
+},
+{
+	"name" : "icon-list-numbered" 
+},
+{
+	"name" : "icon-strike" 
+},
+{
+	"name" : "icon-underline" 
+},
+{
+	"name" : "icon-superscript" 
+},
+{
+	"name" : "icon-subscript" 
+},
+{
+	"name" : "icon-columns" 
+},
+{
+	"name" : "icon-crop" 
+},
+{
+	"name" : "icon-scissors" 
+},
+{
+	"name" : "icon-paste" 
+},
+{
+	"name" : "icon-briefcase" 
+},
+{
+	"name" : "icon-suitcase" 
+},
+{
+	"name" : "icon-ellipsis" 
+},
+{
+	"name" : "icon-ellipsis-vert" 
+},
+{
+	"name" : "icon-off" 
+},
+{
+	"name" : "icon-road" 
+},
+{
+	"name" : "icon-list-alt" 
+},
+{
+	"name" : "icon-qrcode" 
+},
+{
+	"name" : "icon-barcode" 
+},
+{
+	"name" : "icon-book" 
+},
+{
+	"name" : "icon-ajust" 
+},
+{
+	"name" : "icon-tint" 
+},
+{
+	"name" : "icon-check" 
+},
+{
+	"name" : "icon-check-empty" 
+},
+{
+	"name" : "icon-circle" 
+},
+{
+	"name" : "icon-circle-empty" 
+},
+{
+	"name" : "icon-dot-circled" 
+},
+{
+	"name" : "icon-asterisk" 
+},
+{
+	"name" : "icon-gift" 
+},
+{
+	"name" : "icon-fire" 
+},
+{
+	"name" : "icon-magnet" 
+},
+{
+	"name" : "icon-chart-bar" 
+},
+{
+	"name" : "icon-credit-card" 
+},
+{
+	"name" : "icon-floppy" 
+},
+{
+	"name" : "icon-megaphone" 
+},
+{
+	"name" : "icon-hdd" 
+},
+{
+	"name" : "icon-key" 
+},
+{
+	"name" : "icon-fork" 
+},
+{
+	"name" : "icon-rocket" 
+},
+{
+	"name" : "icon-bug" 
+},
+{
+	"name" : "icon-certificate" 
+},
+{
+	"name" : "icon-tasks" 
+},
+{
+	"name" : "icon-filter" 
+},
+{
+	"name" : "icon-beaker" 
+},
+{
+	"name" : "icon-magic" 
+},
+{
+	"name" : "icon-truck" 
+},
+{
+	"name" : "icon-money" 
+},
+{
+	"name" : "icon-euro" 
+},
+{
+	"name" : "icon-pound" 
+},
+{
+	"name" : "icon-dollar" 
+},
+{
+	"name" : "icon-rupee" 
+},
+{
+	"name" : "icon-yen" 
+},
+{
+	"name" : "icon-rouble" 
+},
+{
+	"name" : "icon-try" 
+},
+{
+	"name" : "icon-euro" 
+},
+{
+	"name" : "icon-won" 
+},
+{
+	"name" : "icon-bitcoin" 
+},
+{
+	"name" : "icon-sort" 
+},
+{
+	"name" : "icon-sort-up" 
+},
+{
+	"name" : "icon-sort-down" 
+},
+{
+	"name" : "icon-sort-alt-up" 
+},
+{
+	"name" : "icon-sort-alt-down" 
+},
+{
+	"name" : "icon-sort-name-up" 
+},
+{
+	"name" : "icon-sort-name-down" 
+},
+{
+	"name" : "icon-sort-number-up" 
+},
+{
+	"name" : "icon-sort-number-down" 
+},
+{
+	"name" : "icon-hammer" 
+},
+{
+	"name" : "icon-gauge" 
+},
+{
+	"name" : "icon-sitemap" 
+},
+{
+	"name" : "icon-spinner" 
+},
+{
+	"name" : "icon-coffee" 
+},
+{
+	"name" : "icon-food" 
+},
+{
+	"name" : "icon-beer" 
+},
+{
+	"name" : "icon-user-md" 
+},
+{
+	"name" : "icon-stethoscope" 
+},
+{
+	"name" : "icon-ambulance" 
+},
+{
+	"name" : "icon-medkit" 
+},
+{
+	"name" : "icon-h-sigh" 
+},
+{
+	"name" : "icon-hospital" 
+},
+{
+	"name" : "icon-building" 
+},
+{
+	"name" : "icon-smile" 
+},
+{
+	"name" : "icon-frown" 
+},
+{
+	"name" : "icon-meh" 
+},
+{
+	"name" : "icon-anchor" 
+},
+{
+	"name" : "icon-terminal" 
+},
+{
+	"name" : "icon-eraser" 
+},
+{
+	"name" : "icon-puzzle" 
+},
+{
+	"name" : "icon-shield" 
+},
+{
+	"name" : "icon-extinguisher" 
+},
+{
+	"name" : "icon-bullseye" 
+},
+{
+	"name" : "icon-wheelchair" 
+},
+{
+	"name" : "icon-adn" 
+},
+{
+	"name" : "icon-android" 
+},
+{
+	"name" : "icon-apple" 
+},
+{
+	"name" : "icon-bitbucket" 
+},
+{
+	"name" : "icon-css3" 
+},
+{
+	"name" : "icon-dribbble" 
+},
+{
+	"name" : "icon-dropbox" 
+},
+{
+	"name" : "icon-facebook" 
+},
+{
+	"name" : "icon-flickr" 
+},
+{
+	"name" : "icon-foursquare" 
+},
+{
+	"name" : "icon-github-squared" 
+},
+{
+	"name" : "icon-gplus" 
+},
+{
+	"name" : "icon-html5" 
+},
+{
+	"name" : "icon-instagramm" 
+},
+{
+	"name" : "icon-linkedin-squared" 
+},
+{
+	"name" : "icon-linux" 
+},
+{
+	"name" : "icon-linkedin" 
+},
+{
+	"name" : "icon-maxcdn" 
+},
+{
+	"name" : "icon-pagelines" 
+},
+{
+	"name" : "icon-pinterest-circled" 
+},
+{
+	"name" : "icon-pinterest-squared" 
+},
+{
+	"name" : "icon-renren" 
+},
+{
+	"name" : "icon-skype" 
+},
+{
+	"name" : "icon-stackexchange" 
+},
+{
+	"name" : "icon-trello" 
+},
+{
+	"name" : "icon-tumblr" 
+},
+{
+	"name" : "icon-tumblr-squared" 
+},
+{
+	"name" : "icon-twitter-squared" 
+},
+{
+	"name" : "icon-twitter" 
+},
+{
+	"name" : "icon-vimeo-squared" 
+},
+{
+	"name" : "icon-vkontakte" 
+},
+{
+	"name" : "icon-weibo" 
+},
+{
+	"name" : "icon-windows" 
+},
+{
+	"name" : "icon-xing" 
+},
+{
+	"name" : "icon-xing-squared" 
+},
+{
+	"name" : "icon-youtube" 
+},
+{
+	"name" : "icon-youtube-squared" 
+},
+{
+	"name" : "icon-youtube-play" 
+},
+{
+	"name" : "icon-blank" 
+},
+{
+	"name" : "icon-expand" 
+}
+
+]
